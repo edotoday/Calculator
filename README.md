@@ -14,7 +14,7 @@ This script takes two numbers as input from the user and performs basic arithmet
 3. View the results of the arithmetic operations.
 
 ## Requirements
-- Python 3.x
+- Python 3.x.x
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
