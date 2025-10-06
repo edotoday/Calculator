@@ -11,7 +11,7 @@ This script takes two numbers as input from the user and performs basic arithmet
 ## Usage
 1. Run the script (e.g., `python calculator.py`).
 2. Enter two numbers when prompted.
-3. View the results of the arithmetic operations.
+3. View the results of the arithmetic operations
 
 ## Requirements
 - Python 3.x.x
