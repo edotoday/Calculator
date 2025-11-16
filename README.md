@@ -17,4 +17,4 @@ This script takes two numbers as input from the user and performs basic arithmet
 - Python 3.x.x
 
 ## License
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details
