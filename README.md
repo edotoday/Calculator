@@ -1,4 +1,24 @@
 # Calculator :)
+┌────────────────────┐
+│  CALCULATOR        │
+│                    │
+│  ┌──────────────┐  │
+│  │  0.00         │  │
+│  └──────────────┘  │
+│                    │
+│  ┌───┐ ┌───┐ ┌───┐ ┌───┐
+│  │ 7 │ │ 8 │ │ 9 │ │ / │
+│  └───┘ └───┘ └───┘ └───┘
+│  ┌───┐ ┌───┐ ┌───┐ ┌───┐
+│  │ 4 │ │ 5 │ │ 6 │ │ * │
+│  └───┘ └───┘ └───┘ └───┘
+│  ┌───┐ ┌───┐ ┌───┐ ┌───┐
+│  │ 1 │ │ 2 │ │ 3 │ │ - │
+│  └───┘ └───┘ └───┘ └───┘
+│  ┌───┐ ┌───┐ ┌───┐ ┌───┐
+│  │ 0 │ │ . │ │ = │ │ + │
+│  └───┘ └───┘ └───┘ └───┘
+└────────────────────┘
 
 This script takes two numbers as input from the user and performs basic arithmetic operations (addition, subtraction, multiplication, and division) on those numbers
 
