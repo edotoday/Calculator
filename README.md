@@ -2,7 +2,7 @@
 <img width="609" height="879" alt="image" src="https://github.com/user-attachments/assets/f475f748-de3f-4ffe-98af-cb8bf988ff05" />
 
 
-This script takes two numbers as input from the user and performs basic arithmetic operations (addition, subtraction, multiplication, and division) on those numbers
+This script takes two numbers as input from the user and performs basic arithmetic operations (addition, subtraction, multiplication, and division) on those numbers.
 
 ## Features
 - Prompts the user to input two numbers.
